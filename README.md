@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EngineSpoofer**
 
-- 🌱 I’m currently learning **XSS, SQLInjection, C++**
+- 🌱 I’m currently learning **XSS, SQLInjection**
 
 - 💬 Ask me about **Raspberry PI**
 
