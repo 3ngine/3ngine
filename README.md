@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **EngineSpoofer**
+- 🔭 I’m currently working on **EngineSecure**
 
-- 🌱 I’m currently learning **XSS, SQLInjection, Reverse Engineering**
+- 🌱 I’m currently learning **Red Teaming & Blue Teaming**
 
 - 💬 Ask me about **Raspberry PI**
 
