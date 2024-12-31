@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Red Teaming & Blue Teaming**
 
-- 💬 Ask me about **Raspberry PI**
+- 💬 Ask me about **CyberSecurity**
 
 <p align="left">
 </p>
